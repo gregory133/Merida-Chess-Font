@@ -1,13 +1,11 @@
-
+body{
+    font-family: "MyFont";
+}
 
 @font-face {
     font-family: 'MyFont';
-    src: url('https://www.mediafire.com/file/b8koysuop5q7z0g/LichessMerida.woff2') format('woff2'),
-         url('https://www.mediafire.com/file/m42cmcvzrvy0i9c/LichessMerida.woff') format('woff');
+    src: url('https://gregory133.github.io/Merida-Chess-Font/LichessMerida.woff') format('woff');
+        /* src: url('./LichessMerida.woff') format('woff'); */
     font-weight: normal;
     font-style: normal;
-}
-
-  body{
-    font-family: "MyFont";
 }
