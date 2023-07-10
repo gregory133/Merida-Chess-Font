@@ -1,0 +1,13 @@
+
+
+@font-face {
+    font-family: 'MyFont';
+    src: url('https://www.mediafire.com/file/b8koysuop5q7z0g/LichessMerida.woff2') format('woff2'),
+         url('https://www.mediafire.com/file/m42cmcvzrvy0i9c/LichessMerida.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+  body{
+    font-family: "MyFont";
+}
